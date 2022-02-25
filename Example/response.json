@@ -1,0 +1,29 @@
+﻿[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 35,
+    "hobbies": null,
+    "isOnline":  false
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Smith",
+    "age": 32,
+    "hobbies": [
+      "dancing",
+      "hiking"
+    ],
+    "isOnline": false
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Smith",
+    "age": 7,
+    "hobbies": [
+      "video games",
+      "anime"
+    ],
+    "isOnline": true
+  }
+]
