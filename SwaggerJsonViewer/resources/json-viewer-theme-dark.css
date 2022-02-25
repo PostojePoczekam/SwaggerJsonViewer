@@ -1,0 +1,9 @@
+﻿:root {
+    --primary: #9CDCFE;
+    --secondary: #D4D4D4;
+    --type-string: #CE9178;
+    --type-date: #CB7500;
+    --type-number: #B5CEA8;
+    --type-boolean: #569CD6;
+    --type-null: #569CD6;
+}
