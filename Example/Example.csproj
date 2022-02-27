@@ -14,4 +14,8 @@
     <ProjectReference Include="..\SwaggerJsonViewer\SwaggerJsonViewer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <InternalsVisibleTo Include="Tests" />
+  </ItemGroup>
+
 </Project>
